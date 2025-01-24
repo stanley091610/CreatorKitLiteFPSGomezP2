@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 00000000000000000000000000000000
+  productGUID: 15073803f7023ca4da27d813ece9a357
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -699,7 +699,7 @@ PlayerSettings:
   cloudProjectId: ee838221-4fcb-4e94-928f-ec545c246afb
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer3DClient
+  projectName: P2Jhossimar3DGameKit
   organizationId: jhossimar
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
